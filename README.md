@@ -1,4 +1,6 @@
-HEAD kokeillaan uudestaan
+kokeillaan uudestaan
+hello-world
+vielä paikalliseenkin uudestaan
 hello-world
 Harjoitus
 Testin tynkää joka ei mene kummiskaan oikein
